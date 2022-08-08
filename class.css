@@ -1,0 +1,12 @@
+body{
+    display: grid;
+    place-items: center;
+background-image:  url(image.png);
+
+}
+h1{
+color:yellow;
+font-style: oblique;
+background-image:url(background.png);
+margin-top:0%;
+}
